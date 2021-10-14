@@ -60,16 +60,16 @@ i made this in a hurry and i dont feel like doing it now, but hey, you can alway
 
 ## I still dont understand how to make this work
 
-Basically
-one PC will run Client File, another will run the Server File.
-(or not you can run both on same PC in different Terminals to have Fun)
+Basically<br>
+one PC will run Client File, another will run the Server File.<br>
+(or not you can run both on same PC in different Terminals to have Fun)<br>
 
-you'll need the Public IPv6 of the PC running Server, it's needed to establish a Socket connection.
-remember, P U B L I C - I P v 6
-it'll ask you for it when you run Client Program.
-it should also have worked for IPv4 but for some reason it doesn't, meh. 
+you'll need the Public IPv6 of the PC running Server, it's needed to establish a Socket connection.<br>
+remember, P U B L I C - I P v 6<br>
+it'll ask you for it when you run Client Program.<br>
+it should also have worked for IPv4 but for some reason it doesn't, meh. <br>
 
 if you're running this on same PC just give `localhost` as IP.
 
 <br><br>
-Made with Sheer Agony and Distaste for the world ❤ by Brijrajsinh Parmar
+Made with Shear Agony and Distaste for the world ❤ by Brijrajsinh Parmar
